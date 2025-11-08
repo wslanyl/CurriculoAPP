@@ -1,7 +1,7 @@
 # CurriculoAPP
-App em React Native
-
 📄 Descrição do Projeto
+
+
 Este projeto é a implementação do meu currículo profissional em formato de aplicativo mobile, desenvolvido com React Native e Expo. O objetivo é apresentar minhas experiências, habilidades e formação acadêmica de maneira interativa e moderna, demonstrando proficiência no desenvolvimento de interfaces de usuário mobile.
 
 Todas as informações são carregadas dinamicamente a partir de um objeto JavaScript (userData), facilitando a manutenção e atualização dos dados.
